@@ -24,15 +24,6 @@
     <Compile Include="FuelDataCleaner\csv_handler.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="FuelDataCleaner\data_cleaner.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="FuelDataCleaner\anomaly_processor.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="FuelDataCleaner\zipcode_updater.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="mainPackage\main.py" />
     <Compile Include="mainPackage\__init__.py">
       <SubType>Code</SubType>
